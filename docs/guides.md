@@ -8,7 +8,7 @@ Write the topic, audience, CTA, target length, aspect ratio, source policy, voic
 
 ## Review a readiness score
 
-Treat the score as a production checklist: fix missing source terms, unclear script beats, and unsupported media assumptions.
+Treat the score as a production review list: fix missing source terms, unclear script beats, and unsupported media assumptions.
 
 ## Use the GitHub repo responsibly
 
